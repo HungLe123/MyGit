@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-
+// test conflic tai day
 int g_size_1 = 0;
 int count =0;
 
